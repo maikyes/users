@@ -3,7 +3,7 @@ if "%NetworkIP%"=="192.168.1.124" goto namexist9
 if "%NetworkIP%"=="192.168.0.16" goto namexist9
 if "%NetworkIP%"=="192.168.0.5" goto namexist9
 if "%NetworkIP%"=="192.168.1.3" goto namexist9
-if "%username%"=="maiko" goto namexist9
+:: if "%username%"=="maiko" goto namexist9
 if "%username%"=="Skrt Killero" goto namexist9
 if "%username%"=="alanc" goto namexist9
 if "%username%"=="santy" goto namexist9
