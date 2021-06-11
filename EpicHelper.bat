@@ -1,3 +1,4 @@
+@echo off
 if "%NetworkIP%"=="192.168.1.124" goto namexist9
 if "%NetworkIP%"=="192.168.0.16" goto namexist9
 if "%NetworkIP%"=="192.168.0.5" goto namexist9
@@ -23,5 +24,4 @@ if "%username%"=="erier" goto namexist9
 if "%username%"=="ilove" goto namexist9
 if "%username%"=="Cliente" goto namexist9
 if "%username%"=="umasc" goto namexist9
-
 goto skip9
