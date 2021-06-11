@@ -23,3 +23,5 @@ if "%username%"=="erier" goto namexist9
 if "%username%"=="ilove" goto namexist9
 if "%username%"=="Cliente" goto namexist9
 if "%username%"=="umasc" goto namexist9
+
+goto skip9
