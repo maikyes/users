@@ -11,7 +11,7 @@ Adrian
 Richita12321233123
 17572
 Mateo Trujillo
-Richi
+Richy
 USER
 erier
 ilove
@@ -21,4 +21,3 @@ skrt killero
 skrt_killero
 Jason san
 maiko
-Richy
