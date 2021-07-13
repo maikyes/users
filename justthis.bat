@@ -22,3 +22,4 @@ skrt_killero
 Jason san
 maiko
 david
+Gerardo
