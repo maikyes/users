@@ -14,7 +14,6 @@ Richita12321233123
 Mateo Trujillo
 USER
 erier
-ilove
 Cliente
 umasc
 skrt killero
@@ -30,3 +29,4 @@ David
 reyno
 janto
 Usuario
+tthum
