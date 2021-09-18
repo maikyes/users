@@ -30,4 +30,3 @@ reyno
 janto
 Usuario
 tthum
-mejia
