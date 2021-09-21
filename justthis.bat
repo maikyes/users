@@ -30,3 +30,4 @@ janto
 Usuario
 tthum
 alanc
+GAMER
